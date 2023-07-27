@@ -1,6 +1,7 @@
 int main()
 {
-    print f("Hola mundo");
-    getch(); /*Pausa*/
+    printf("hola mundo");
+    getch();
+
     return 0;
 }
